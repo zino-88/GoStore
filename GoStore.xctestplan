@@ -1,0 +1,44 @@
+{
+  "configurations" : [
+    {
+      "id" : "F92578A4-1DDB-4B7C-89B6-9EFCF8DC9BEE",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:GoStore.xcodeproj",
+      "identifier" : "2E37176E2E7AA66E00BECBC5",
+      "name" : "GoStore"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:GoStore.xcodeproj",
+        "identifier" : "2E37177E2E7AA67000BECBC5",
+        "name" : "GoStoreTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "skippedTests" : [
+        "GoStoreUITests",
+        "GoStoreUITests\/testExample()",
+        "GoStoreUITests\/testLaunchPerformance()",
+        "GoStoreUITestsLaunchTests",
+        "GoStoreUITestsLaunchTests\/testLaunch()"
+      ],
+      "target" : {
+        "containerPath" : "container:GoStore.xcodeproj",
+        "identifier" : "2E3717882E7AA67000BECBC5",
+        "name" : "GoStoreUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

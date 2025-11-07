@@ -1,0 +1,33 @@
+{
+  "originHash" : "8e6915a94069ae0a613ea135f19df02ca0b8d9d7f45e35015633fd444f1339fa",
+  "pins" : [
+    {
+      "identity" : "apiclientcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zino-88/APIClientCore.git",
+      "state" : {
+        "revision" : "c83fc3a25e1bcaf77546fd0167036d15114dd580",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "dd3c422ec3088404d6f7e8c905a8318b3de12d6f",
+        "version" : "8.6.0"
+      }
+    },
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject",
+      "state" : {
+        "revision" : "b685b549fe4d8ae265fc7a2f27d0789720425d69",
+        "version" : "2.10.0"
+      }
+    }
+  ],
+  "version" : 3
+}
