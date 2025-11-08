@@ -714,8 +714,8 @@
 		2EAB15A82EBE7F9500A0A37A /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				2EAB15A52EBE7F9500A0A37A /* SDFavoriteProductRepositoryTests.swift */,
 				2EAB15A62EBE7F9500A0A37A /* SDProductPersistenceTests.swift */,
+				2EAB15A52EBE7F9500A0A37A /* SDFavoriteProductRepositoryTests.swift */,
 				2EAB15A72EBE7F9500A0A37A /* SDSeenProductRepositoryTests.swift */,
 			);
 			path = Data;

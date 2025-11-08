@@ -1,8 +1,6 @@
 //
-//  TestHelpers.swift
-//  GoStore
-//
-//  Created by zine on 03/10/2025.
+//  GoStoreTests - Clean Architecture Sample
+//  Created by Zine.
 //
 
 import Foundation

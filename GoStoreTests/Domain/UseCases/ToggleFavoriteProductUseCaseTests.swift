@@ -1,8 +1,6 @@
 //
-//  ToggleFavoriteProductUseCaseTestes.swift
-//  GoStore
-//
-//  Created by zine on 04/10/2025.
+//  GoStoreTests - Clean Architecture Sample
+//  Created by Zine.
 //
 
 import XCTest

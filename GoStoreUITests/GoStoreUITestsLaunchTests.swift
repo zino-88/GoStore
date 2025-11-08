@@ -1,8 +1,6 @@
 //
-//  GoStoreUITestsLaunchTests.swift
-//  GoStoreUITests
-//
-//  Created by zine on 17/09/2025.
+//  GoStoreUITests - Clean Architecture Sample
+//  Created by Zine.
 //
 
 import XCTest

@@ -1,3 +1,8 @@
+//
+//  GoStoreTests - Clean Architecture Sample
+//  Created by Zine.
+//
+
 import XCTest
 @testable import GoStore
 

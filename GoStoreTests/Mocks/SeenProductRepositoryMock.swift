@@ -1,4 +1,7 @@
-
+//
+//  GoStoreTests - Clean Architecture Sample
+//  Created by Zine.
+//
 
 import Foundation
 import Combine
